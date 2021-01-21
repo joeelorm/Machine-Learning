@@ -1,2 +1,3 @@
-# Machine-Learning
- Machine Learning Practice and mini projects
+Machine Learning
+
+This repository contains my learning journey with Machine Learning. 
